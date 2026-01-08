@@ -1,2 +1,2 @@
-# GIt_Repo
-AI model based Deepfake Detectoin
+# Dyslexia Helper
+AI & NLP model-based Helper for reading
